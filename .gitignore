@@ -1,0 +1,5 @@
+# ide files
+.idea/**/**
+
+bundle.js
+node_modules/**/**
